@@ -1,0 +1,21 @@
+.login {
+    height: 100vh;
+    display: flex;
+    margin-top: -200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.login button {
+
+    width: 240px;
+    color: white;
+    height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    background: #3578E5;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0;
+    outline: 0;
+}
